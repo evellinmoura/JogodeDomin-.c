@@ -1,6 +1,6 @@
 # JogodeDomin-.c
 Esse projeto consiste em um programa de jogo de domino 
-Feito todo em llinguagem C, com as seguintas capacidades:
+feito todo em llinguagem C, com as seguintas capacidades:
 1. Salvar, a qualquer momento, o estado atual da partida em um arquivo externo;
 2. Continuar um jogo em andamento lendo suas informações/estados a partir de um
 arquivo externo, salvo após o fechamento do programa;
